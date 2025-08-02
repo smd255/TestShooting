@@ -1,0 +1,49 @@
+# Unityのビルド出力や一時ファイル
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User-specific settings
+UserSettings/
+
+# Unity Cloud Buildの設定ファイル（必要なら残してもOK）
+*.collab
+
+# OS・IDEの一時ファイル
+.DS_Store
+*.swp
+*.tmp
+
+# Visual Studio / JetBrains Rider 関連
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+*.pidb
+*.booproj
+.idea/
+*.tmproj
+
+# Crash reports
+sysinfo.txt
+
+# Android / Xcode のビルド関連
+.gradle/
+*.apk
+*.aab
+*.keystore
+*.xcworkspace/
+*.xcodeproj/
+*.xcuserstate
+Pods/
+
+# その他キャッシュ系
+*.apk
+*.aab
+*.unitypackage
